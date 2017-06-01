@@ -3,7 +3,10 @@
 将会实现以下功能：
 - [ ] 注册
 - [ ] 登录
-- [ ] 发消息
+- [ ] 发消息 10%
+   - 增加用户类
+   - 增加消息类
+   - 增加Socket通信(TODO)
 - [ ] 发图片
 - [ ] 发语音
 - [ ] 添加好友
@@ -16,7 +19,10 @@ This projecet will implement following functions:
 
 - [ ] Register
 - [ ] Login
-- [ ] Send Message
+- [ ] Send Message 10%
+   - Add User Class
+   - Add Message Class
+   - Add Socket（TODO）
 - [ ] Send Images
 - [ ] Send Audio
 - [ ] Add Friends
