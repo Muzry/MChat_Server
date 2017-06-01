@@ -1,5 +1,5 @@
 # Wechat_Server
-这个项目是通过Java语言编写，模仿微信服务端。
+这个项目将会通过Java语言编写，模仿微信服务端。
 将会实现以下功能：
 - [ ] 注册
 - [ ] 登录
@@ -12,7 +12,7 @@
 
 ---
 This repo is coding for simulating Wechat_Server with Java.
-It will implement fllowing functions:
+This projecet will implement following functions:
 
 - [ ] Register
 - [ ] Login
