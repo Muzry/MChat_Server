@@ -6,7 +6,7 @@
 - [ ] 发消息 10%
    - 增加用户类
    - 增加消息类
-   - 增加Socket通信(TODO)
+   - 增加Socket通信10%
 - [ ] 发图片
 - [ ] 发语音
 - [ ] 添加好友
@@ -22,7 +22,7 @@ This projecet will implement following functions:
 - [ ] Send Message 10%
    - Add User Class
    - Add Message Class
-   - Add Socket（TODO）
+   - Add Socket 10%
 - [ ] Send Images
 - [ ] Send Audio
 - [ ] Add Friends
