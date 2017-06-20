@@ -15,6 +15,7 @@
 
 ---
 This repo is coding for simulating some functions of Wechat_Server with Java.
+
 This projecet will implement following functions:
 
 - [ ] Register
