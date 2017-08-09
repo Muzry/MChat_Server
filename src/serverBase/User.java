@@ -4,11 +4,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class User {
-	String userName;
-	String nickName;
-	String sex;
-	ArrayList<User> friends;
-	HashMap<String, ArrayList<Message>> messageMap;
+	private String userId;
+	private String userName;
+	private String nickName;
+	private String userIcon;
+	private String sex;
+	private ArrayList<User> friends;
+	private HashMap<String, ArrayList<Message>> messageMap;
 	
 	public User(String userName, String nickName, String sex)
 	{

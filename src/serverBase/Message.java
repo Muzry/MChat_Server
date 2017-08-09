@@ -3,10 +3,10 @@ package serverBase;
 import java.util.Date;
 
 public class Message {
-
-	String msg;
-	Date datetime;
-	String type;
+	private String messageId;
+	private String msg;
+	private Date datetime;
+	private String type;
 	public Message(String msg, String type)
 	{
 		this.msg = msg;
